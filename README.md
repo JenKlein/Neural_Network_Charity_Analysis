@@ -17,8 +17,8 @@ Alphabet Soup is a philanthroic organization dedicated to helping the environmen
 #### Raw data DataFrame
 ![Screen Shot 2021-07-18 at 9 08 50 PM](https://user-images.githubusercontent.com/69849998/126088781-9b4936c8-5ac1-428d-96a9-4052d4a88522.png)
 
-* Target: Is_Successful
-* Features:
+* **Target:** Is_Successful
+* **Features:**
     * APPLICATION_TYPE
     * AFFILIATION
     * CLASSIFICATION
@@ -28,7 +28,7 @@ Alphabet Soup is a philanthroic organization dedicated to helping the environmen
     * INCOME_AMT
     * SPECIAL_CONSIDERATIONS
     * ASK_AMT
-* Variables to be removed: 
+* **Variables to be removed:**
     * EIN
     * Name
 
