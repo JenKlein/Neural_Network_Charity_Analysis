@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview
-Alphabet Soup is a philanthroic organization dedicated to helping the environment and improving people's wellbeing. They have fundraised and donated over 10 billion dollars in the past 20 years. This money has been used to invest in life-saving technologies and organize reforestation groups around the world. They provided a CSV dataset of more than 34,000 organizations that have received funding from Alphabet Soup over the years. The objective of this project was to create a binary classifier machine learning model capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
+Alphabet Soup is a philanthropic organization dedicated to helping the environment and improving people's wellbeing. They have fundraised and donated over 10 billion dollars in the past 20 years. This money has been used to invest in life-saving technologies and organize reforestation groups around the world. They provided a CSV dataset of more than 34,000 organizations that have received funding from Alphabet Soup over the years. The objective of this project was to create a binary classifier machine learning model capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
 
 
 ### Tools
